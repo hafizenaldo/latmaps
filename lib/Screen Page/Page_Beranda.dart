@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:latmaps/Screen%20Page/Camera.dart';
-import 'package:latmaps/Screen%20Page/Mao.dart';
+import 'package:latmaps/Screen%20Page/Map.dart';
 
 class PageBeranda extends StatelessWidget {
   const PageBeranda({super.key});
